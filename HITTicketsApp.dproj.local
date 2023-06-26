@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.464,C:\Users\User\Documents\Embarcadero\Studio\Projekte\Unit1.pas=E:\Delphi\Personal_Schule\U_main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,=C:\Users\User\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.386,=C:\Users\User\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.988,E:\Delphi\Personal_Schule\U_main.fmx=E:\Delphi\TakemyInput\U_main.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.403,=E:\Delphi\TakemyInput\U_JSONDataLayer.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,E:\Delphi\Personal_Schule\U_FrameLoading.fmx=E:\Delphi\TakemyInput\U_FrameLoading.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.019,E:\Delphi\Personal_Schule\U_FrameLoading.fmx=E:\Delphi\Personal_Schule\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,E:\Delphi\Personal_Schule\PersonalLernApp.dproj=E:\Delphi\TakemyInput\TakemyInput.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.993,=E:\Delphi\TakemyInput\U_Network.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.464,C:\Users\User\Documents\Embarcadero\Studio\Projekte\Unit1.fmx=E:\Delphi\Personal_Schule\U_main.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.988,E:\Delphi\Personal_Schule\U_main.pas=E:\Delphi\TakemyInput\U_main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.019,E:\Delphi\Personal_Schule\U_FrameLoading.pas=E:\Delphi\Personal_Schule\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\User\Documents\Embarcadero\Studio\Projekte\Project1.dproj=E:\Delphi\Personal_Schule\PersonalLernApp.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,=E:\Delphi\Personal_Schule\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,E:\Delphi\Personal_Schule\U_FrameLoading.pas=E:\Delphi\TakemyInput\U_FrameLoading.pas</Transaction>
+    <Transaction>2023.06.26 21:20:06.540,E:\Delphi\HITTicketsApp\HITTicketsApp.dproj=E:\Delphi\HITTicketsApp\TakemyInput.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
